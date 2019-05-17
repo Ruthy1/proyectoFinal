@@ -1,0 +1,24 @@
+﻿  Camera.cpp
+  figuras.cpp
+figuras.cpp(84): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+figuras.cpp(302): warning C4101: 'theta': unreferenced local variable
+figuras.cpp(302): warning C4101: 'phi': unreferenced local variable
+  main_final.cpp
+main_final.cpp(174): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main_final.cpp(180): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main_final.cpp(195): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main_final.cpp(201): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main_final.cpp(202): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  texture.cpp
+texture.cpp(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+texture.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+texture.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+main_final.obj : error LNK2001: unresolved external symbol "public: void __thiscall CModel::GLrender(class VECTOR3D *,int,float)" (?GLrender@CModel@@QAEXPAVVECTOR3D@@HM@Z)
+main_final.obj : error LNK2001: unresolved external symbol "public: void __thiscall CModel::VertexNormals(void)" (?VertexNormals@CModel@@QAEXXZ)
+main_final.obj : error LNK2001: unresolved external symbol "public: bool __thiscall CModel::_3dsLoad(char *)" (?_3dsLoad@CModel@@QAE_NPAD@Z)
+main_final.obj : error LNK2001: unresolved external symbol "public: __thiscall CModel::~CModel(void)" (??1CModel@@QAE@XZ)
+main_final.obj : error LNK2001: unresolved external symbol "public: __thiscall CModel::CModel(void)" (??0CModel@@QAE@XZ)
+D:\HOME\Visual Studio Projects\proyectoFinal\Release\proyectoFinal.exe : fatal error LNK1120: 5 unresolved externals

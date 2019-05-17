@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+Cmodel.lib(_3dsloader.obj) : warning LNK4099: no se encontr¾ PDB 'vc70.pdb' con 'Cmodel.lib(_3dsloader.obj)' o en 'C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\vc70.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+Cmodel.lib(CModel.obj) : warning LNK4099: no se encontr¾ PDB 'vc70.pdb' con 'Cmodel.lib(CModel.obj)' o en 'C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\vc70.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+Cmodel.lib(CObject.obj) : warning LNK4099: no se encontr¾ PDB 'vc70.pdb' con 'Cmodel.lib(CObject.obj)' o en 'C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\vc70.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+Cmodel.lib(GFILoader.obj) : warning LNK4099: no se encontr¾ PDB 'vc70.pdb' con 'Cmodel.lib(GFILoader.obj)' o en 'C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\vc70.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+Cmodel.lib(GLRender.obj) : warning LNK4099: no se encontr¾ PDB 'vc70.pdb' con 'Cmodel.lib(GLRender.obj)' o en 'C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\vc70.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+Cmodel.lib(HandleStream.obj) : warning LNK4099: no se encontr¾ PDB 'vc70.pdb' con 'Cmodel.lib(HandleStream.obj)' o en 'C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\vc70.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+Cmodel.lib(imageload.obj) : warning LNK4099: no se encontr¾ PDB 'vc70.pdb' con 'Cmodel.lib(imageload.obj)' o en 'C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\vc70.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+Cmodel.lib(MATRIX4X4.obj) : warning LNK4099: no se encontr¾ PDB 'vc70.pdb' con 'Cmodel.lib(MATRIX4X4.obj)' o en 'C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\vc70.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+Cmodel.lib(VECTOR3D.obj) : warning LNK4099: no se encontr¾ PDB 'vc70.pdb' con 'Cmodel.lib(VECTOR3D.obj)' o en 'C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\vc70.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+Cmodel.lib(VECTOR4D.obj) : warning LNK4099: no se encontr¾ PDB 'vc70.pdb' con 'Cmodel.lib(VECTOR4D.obj)' o en 'C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\vc70.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+  practica2.vcxproj -> C:\Users\ruth_\Desktop\Grafica\proyectoFinal\Debug\proyectoFinal.exe
